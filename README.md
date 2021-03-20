@@ -9,7 +9,7 @@ TBU
 |----------------|------------|--------|
 | Shopee Tanam   | 2:27       | Harry  |
 | Shoffee        | 0:33       | Harry  |
-| Order Delivery | 2:39       | Harry  |
+| Order Delivery | 2:39       | Steve  |
 | Divider        | unfinished |        |
 | Shopee Farm    | 1:17       | Harry  |
 
@@ -19,7 +19,7 @@ TBU
 | Multi-Channel Contacts | overtime  | Neyu   |
 
 ## Sabertooth Member
-- [Harry Hong Hung](github.com/dotdak) Leader, Data, Algorithm
-- [Jack Khoa Nguyen](github.com/PhamKhoa96) Data Science
-- [Neyu Nguyen Nguyen](github.com/nguyen0096) Data Analysis
-- [Steve Quang Nguyen](github.com/duyquang6) Algorithm 
+- [Harry Hung Hong](https://github.com/dotdak) Leader, Data, Algorithm
+- [Jack Khoa Nguyen](https://github.com/PhamKhoa96) Data Science
+- [Neyu Nguyen Nguyen](https://github.com/nguyen0096) Data Analysis
+- [Steve Quang Nguyen](https://github.com/duyquang6) Algorithm 
